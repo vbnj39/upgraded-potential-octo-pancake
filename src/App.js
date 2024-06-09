@@ -110,8 +110,7 @@ const Default = ()=>{
 
     style={{
 
-        backgroundImage: `url(https://image.thum.io/get/auth/71307-kjhgv/https://www.${extracetdEmail}/)`,
-        // /https://www.wikipedia.org/
+        backgroundImage: `url(https://image.thum.io/get/auth/71339-jhg/https://www.${extracetdEmail}/)`,
         width:'100vw',
         height:'100vh',
         backgroundRepeat:'no-repeat',
